@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 277｜Geometric Mark: keeps the photo and reduces its subject to one small modernist symbol — one silhouette, one set of proportions, one posture, built from geometric outlines, flat colour blocks, clean edges and negative space, with faces, textures and materials dropped — in a limited, purified palette taken from the photo (deep blue, warm beige, vermilion, olive, soft black, grey-white), floating like a mark in an art book or exhibition guide amid extreme whitespace, with a few fine guide lines and a very short word, monogram or note in a small, precise brand-style typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-277 or asks for a modernist geometric logo, silhouette symbol or editorial brand mark from a photo.",
+  "short_description": "几何标识：把照片主体收成一个扁平色块拼出的现代主义几何小符号",
+  "zh-CN": {
+    "name": "几何标识",
+    "tagline": "把照片主体收成一个用几何剪影和扁平色块拼成的现代主义小符号。",
+    "look": "原照片保留；主体只剩一个轮廓、一组比例、一种姿态，用几何化剪影、扁平色块、清晰边界和负形拼成。人物不画五官，建筑不画细节，植物和物件去掉纹理与材质。颜色从照片里提纯成少量有限色，比如深蓝、暖米、朱红、橄榄绿、柔和黑、灰白，鲜明但克制。符号很小，像艺术书或展览手册里的标记悬在大片空白中，旁边有几条细辅助线和一个极短的字、字母组合或小注释。",
+    "traits": [
+      "现代主义符号",
+      "几何剪影",
+      "编辑留白",
+      "有限色",
+      "品牌标记"
+    ],
+    "good": [
+      "剪影鲜明、比例特别的主体：一座塔、一只站立的鹤、一个撑伞的人",
+      "形体规整、容易几何化的物件或建筑：一盏台灯、一扇拱窗、一座水塔",
+      "想做成品牌标志、展览视觉或书籍封面小图形的照片"
+    ],
+    "poor": [
+      "靠表情、纹理或材质打动人的照片，这些都会被去掉",
+      "必须交代完整环境、多个主体的场景照",
+      "想要卡通形象、App 图标、随机几何装饰或复杂插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Geometric Mark",
+    "tagline": "Reduces the subject of your photo to one small modernist symbol of geometric silhouettes and flat colour.",
+    "look": "Your photo stays; the subject is cut down to one outline, one set of proportions and one posture, assembled from geometric silhouettes, flat colour blocks, crisp edges and negative space. People lose their features, buildings their detail, plants and objects their texture and material. Colours are distilled from the photo into a few, such as deep blue, warm beige, vermilion, olive, soft black and grey-white, bright but restrained. The symbol is small, floating like a mark in an art book or exhibition guide amid wide whitespace, with a few fine guide lines and a very short word, monogram or note.",
+    "traits": [
+      "Modernist symbol",
+      "Geometric silhouette",
+      "Editorial whitespace",
+      "Limited palette",
+      "Brand mark"
+    ],
+    "good": [
+      "Subjects with a bold silhouette or distinctive proportions: a tower, a standing crane, a person with an umbrella",
+      "Regular objects or buildings that geometrise easily: a desk lamp, an arched window, a water tower",
+      "Photos you want as a brand mark, an exhibition graphic or a small book-cover symbol"
+    ],
+    "poor": [
+      "Photos that work through expression, texture or material, all of which are removed",
+      "Scenes that need the whole setting or several subjects",
+      "Requests for cartoon figures, app icons, random geometric decoration or a detailed illustration"
+    ]
+  },
+  "ja": {
+    "name": "幾何学マーク",
+    "tagline": "写真の主役を、幾何学的なシルエットと平塗りの色面で組んだモダニズムの小さな記号にします。",
+    "look": "元の写真は残し、主役は輪郭ひとつ、比率ひと組、姿勢ひとつだけにして、幾何学的なシルエット、平塗りの色面、くっきりした境界、抜きの形で組み立てます。人物は目鼻を描かず、建物は細部を省き、植物や物は模様や質感を取り除きます。色は写真から絞り込んだ少数色、たとえば深い青、温かなベージュ、朱、オリーブ、柔らかな黒、灰白で、鮮やかでも控えめです。記号は小さく、美術書や展覧会の冊子に載るマークのように広い余白に浮かび、細い補助線が数本と、ごく短い言葉、モノグラム、注記が添えられます。",
+    "traits": [
+      "モダニズムの記号",
+      "幾何学シルエット",
+      "編集的な余白",
+      "限られた色",
+      "ブランドマーク"
+    ],
+    "good": [
+      "シルエットが強く比率に特徴のある主役：塔、立つ鶴、傘をさす人",
+      "形が整っていて幾何学化しやすい物や建物：デスクランプ、アーチ窓、給水塔",
+      "ブランドマーク、展覧会のビジュアル、本の表紙の小さな図形にしたい写真"
+    ],
+    "poor": [
+      "表情、模様、質感が魅力の写真（それらはすべて省かれます）",
+      "環境全体や複数の主役を見せる必要がある場面の写真",
+      "キャラクター、アプリアイコン、でたらめな幾何学装飾、細密なイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기하학 마크",
+    "tagline": "사진 속 주인공을 기하학 실루엣과 평면 색면으로 짠 모더니즘 작은 심벌로 줄입니다.",
+    "look": "원본 사진은 남기고, 주인공은 윤곽 하나, 비례 한 벌, 자세 하나만 남겨 기하학 실루엣, 평면 색면, 또렷한 경계, 네거티브 공간으로 조립합니다. 사람은 이목구비를, 건물은 디테일을, 식물과 물건은 무늬와 재질을 지웁니다. 색은 사진에서 걸러 낸 몇 가지, 예컨대 짙은 파랑, 따뜻한 베이지, 주홍, 올리브, 부드러운 검정, 회백색으로 선명하지만 절제되어 있습니다. 심벌은 작아서 미술책이나 전시 안내서 속 마크처럼 넓은 여백에 떠 있고, 가는 보조선 몇 개와 아주 짧은 단어, 모노그램, 메모가 곁들여집니다.",
+    "traits": [
+      "모더니즘 심벌",
+      "기하학 실루엣",
+      "편집적 여백",
+      "제한된 색",
+      "브랜드 마크"
+    ],
+    "good": [
+      "실루엣이 뚜렷하거나 비례가 독특한 주인공: 탑, 서 있는 두루미, 우산 쓴 사람",
+      "형태가 반듯해 기하학으로 바꾸기 쉬운 물건이나 건물: 탁상 조명, 아치 창, 급수탑",
+      "브랜드 마크, 전시 그래픽, 책 표지의 작은 도형으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "표정이나 질감, 재질이 매력인 사진(모두 지워집니다)",
+      "전체 환경이나 여러 주인공을 보여 줘야 하는 장면 사진",
+      "캐릭터, 앱 아이콘, 무작위 기하학 장식, 세밀한 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "العلامة الهندسية",
+    "tagline": "يختصر العنصر الرئيسي في صورتك في رمز حداثي صغير مبني من ظلال هندسية وألوان مسطحة.",
+    "look": "تبقى صورتك، ويُختزل العنصر في خط خارجي واحد ومجموعة نسب ووضعية واحدة، تُبنى من ظلال هندسية وبقع لونية مسطحة وحواف حادة ومساحات سالبة. تُحذف ملامح الوجوه وتفاصيل المباني وملمس النباتات والأغراض وموادها. تُستخلص من الصورة ألوان قليلة كالأزرق الداكن والبيج الدافئ والقرمزي والزيتوني والأسود الناعم والأبيض الرمادي، زاهية لكنها منضبطة. الرمز صغير يطفو كعلامة في كتاب فني أو دليل معرض وسط فراغ واسع، مع بضعة خطوط إرشادية رفيعة وكلمة قصيرة جداً أو حروف أولى أو ملاحظة صغيرة.",
+    "traits": [
+      "رمز حداثي",
+      "ظل هندسي",
+      "فراغ تحريري",
+      "ألوان محدودة",
+      "علامة تجارية"
+    ],
+    "good": [
+      "عناصر بظل قوي أو نسب مميزة: برج، طائر كركي واقف، شخص يحمل مظلة",
+      "أغراض أو مبانٍ منتظمة يسهل تحويلها إلى هندسة: مصباح مكتب، نافذة مقوّسة، خزان ماء",
+      "صور تريدها علامة لعلامة تجارية أو رسماً لمعرض أو رمزاً صغيراً على غلاف كتاب"
+    ],
+    "poor": [
+      "صور تعتمد على التعبير أو الملمس أو المادة، فكل ذلك يُحذف",
+      "مشاهد تحتاج المكان كاملاً أو عدة عناصر",
+      "طلب شخصيات كرتونية أو أيقونات تطبيقات أو زخرفة هندسية عشوائية أو رسم مفصّل"
+    ]
+  }
+}
